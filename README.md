@@ -17,15 +17,16 @@
 
 ### Hi there 👋 My name is Arnold Njenga.
 --- 
- -📊 Data & Research – Interested in analyzing travel behavior and housing demand to influence sustainable development.
- 
- -🚀I'm diving into understanding travel behavior and how housing choice location affects demand in rural and tribal communities in United States.
- 
- -🏗️ I design multistory concrete buildings and infrastructure projects part time and I'm a CEO of NjengaBuildMore.
- 
- - ✈️ In my free time I explore trails and read about politics and history.
-   
- - 🎓 Mentorship & Knowledge Sharing – Dedicated to supporting young engineers in their education and professional growth.
+
+- 📊 Data & Research – Interested in analyzing travel behavior and housing demand to influence sustainable development.
+
+- 🚀I'm diving into understanding travel behavior and how housing choice location affects demand in rural and tribal communities in United States.
+
+- 🏗️ I design multistory concrete buildings and infrastructure projects part time and I'm a CEO of NjengaBuildMore.
+
+- ✈️ In my free time I explore trails and read about politics and history.
+
+- 🎓 Mentorship & Knowledge Sharing – Dedicated to supporting young engineers in their education and professional growth.
 
    
 ---
