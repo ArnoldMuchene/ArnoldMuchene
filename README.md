@@ -15,7 +15,8 @@
   <img src="https://komarev.com/ghpvc/?username=ArnoldMuchene&style=flat-square&color=blue" alt="Profile Views"/>
 </div>
 
-### Hi there 👋 My name is Branley Mmasi.
+### Hi there 👋 My name is Arnold Njenga.
+--- 
  -📊 Data & Research – Interested in analyzing travel behavior and housing demand to influence sustainable development.
  -🚀I'm diving into understanding travel behavior and how housing choice location affects demand in rural and tribal communities in United States.
  -🏗️ I design multistory concrete buildings and infrastructure projects part time and I'm a CEO of NjengaBuildMore.
