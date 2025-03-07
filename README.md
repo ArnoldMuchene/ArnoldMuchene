@@ -5,7 +5,7 @@
 
 <!-- LinkedIn badge that redirects to my official LinkedIn profile -->
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/bmmasi1/">
+  <a href="https://www.linkedin.com/in/arnoldnjenga/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge"/>
   </a>
 </div>
