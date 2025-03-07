@@ -67,7 +67,5 @@
   Current Mood 🎧
   <a><i style="font-size: 10px" class="bx bx-tada-hover">
                                 <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=arnoldnjenga&cover_image=false&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=arnoldnjenga&redirect=true)"></img>
-
-                    </i>
-                  </a> 
+  </i></a>
 </h1>
