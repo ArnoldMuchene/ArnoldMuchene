@@ -16,11 +16,11 @@
 </div>
 
 ### Hi there 👋 My name is Branley Mmasi.
--📊 Data & Research – Interested in analyzing travel behavior and housing demand to influence sustainable development.
--🚀I'm diving into understanding travel behavior and how housing choice location affects demand in rural and tribal communities in United States.
--🏗️ I design multistory concrete buildings and infrastructure projects part time and I'm a CEO of NjengaBuildMore.
-✈️ In my free time I explore trails and read about politics and history.
-🎓 Mentorship & Knowledge Sharing – Dedicated to supporting young engineers in their education and professional growth.
+ -📊 Data & Research – Interested in analyzing travel behavior and housing demand to influence sustainable development.
+ -🚀I'm diving into understanding travel behavior and how housing choice location affects demand in rural and tribal communities in United States.
+ -🏗️ I design multistory concrete buildings and infrastructure projects part time and I'm a CEO of NjengaBuildMore.
+ - ✈️ In my free time I explore trails and read about politics and history.
+ - 🎓 Mentorship & Knowledge Sharing – Dedicated to supporting young engineers in their education and professional growth.
 ---
 
 ### 🛠️ Languages and Tools:
@@ -31,8 +31,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/ocaml/ocaml-original-wordmark.svg" title="R" alt="Ocaml" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original-wordmark.svg" title="Python" alt="Unity" width="40" height="40"/>&nbsp;
+
 </div>
 
 ---
@@ -59,7 +58,8 @@
 <h1 align="center">
   Current Mood 🎧
   <a><i style="font-size: 10px" class="bx bx-tada-hover">
-                    <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=hvoh3gwfkd3h64bzeal1fejmu&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view.svg?uid=hvoh3gwfkd3h64bzeal1fejmu&redirect=true)" align="middle"></img>
+                                <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=arnoldnjenga&cover_image=false&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=arnoldnjenga&redirect=true)"></img>
+
                     </i>
-                  </a>
+                  </a> 
 </h1>
