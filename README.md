@@ -1,6 +1,6 @@
 <!-- The "Hello there" greeting -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=130&color=gradient&text=Hello%20there%20😃&reversal=false&fontAlignY=34"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=130&color=gradient&text=Hello%20There%20😃&reversal=false&fontAlignY=34"/>
 </p>
 
 <!-- LinkedIn badge that redirects to my official LinkedIn profile -->
@@ -15,7 +15,7 @@
   <img src="https://komarev.com/ghpvc/?username=ArnoldMuchene&style=flat-square&color=blue" alt="Profile Views"/>
 </div>
 
-### Hi there 👋 My name is Arnold Njenga.
+### Hello there 👋 My name is Arnold Njenga Muchene, MEng.
 --- 
 
 - 📊 Data & Research – Interested in analyzing travel behavior and housing demand to influence sustainable development.
