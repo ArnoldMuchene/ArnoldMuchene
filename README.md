@@ -39,6 +39,12 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/86/Microsoft_Excel_2019_logo.svg" title="Excel" alt="Excel" width="40" height="40"/>&nbsp;
+  <img src="https://www.tekla.com/themes/custom/trimble_them/images/tekla-logo-blue.svg" title="Tekla Structures" alt="Tekla" width="40" height="40"/>&nsbsp;
+  <img src="https://www.mathcad.com/-/media/Images/mathcad/logos/Mathcad_Logo.png" title="Mathcad" alt="Mathcad" width="40" height="40"/>&nsbsp;
+
+
+
 
 </div>
 
