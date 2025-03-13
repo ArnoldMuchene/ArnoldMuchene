@@ -1,6 +1,6 @@
 <!-- The "Hello there" greeting -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=130&color=gradient&text=Hello%20There%20😃&reversal=false&fontAlignY=34"/>
+![gif2](https://user-images.githubusercontent.com/118138496/218883727-a8ff45d9-21ef-4543-af69-c775ccd8066a.gif)
 </p>
 
 <!-- LinkedIn badge that redirects to my official LinkedIn profile -->
