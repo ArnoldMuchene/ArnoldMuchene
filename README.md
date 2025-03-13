@@ -1,4 +1,6 @@
 <!-- The "Hello there" greeting -->
+![gif2](https://user-images.githubusercontent.com/118138496/218883727-a8ff45d9-21ef-4543-af69-c775ccd8066a.gif)
+
 <p align="center">
 Hello there 
 </p>
