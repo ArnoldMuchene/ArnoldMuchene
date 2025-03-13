@@ -8,11 +8,6 @@
   <img src="https://user-images.githubusercontent.com/118138496/218883727-a8ff45d9-21ef-4543-af69-c775ccd8066a.gif" alt="gif2">
 </p>
 
-
-<p align="center">
-Hello there 
-</p>
-
 <!-- LinkedIn badge that redirects to my official LinkedIn profile -->
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/arnoldnjenga/">
