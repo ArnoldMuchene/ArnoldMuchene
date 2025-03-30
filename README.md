@@ -55,9 +55,7 @@
   <tr>
     <td>
     <!-- GitHub streak stats -->
-      <a href="https://git.io/streak-stats">
-        <img src="      [![GitHub Streak](https://streak-stats.demolab.com?user=ArnoldMuchene&border_radius=10&locale=hu&date_format=M%20j%5B%2C%20Y%5D&mode=weekly)](https://git.io/streak-stats)
-" alt="GitHub Streak">
+      <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ArnoldMuchene&border_radius=10&locale=hu&date_format=M%20j%5B%2C%20Y%5D&mode=weekly" alt="GitHub Streak" />
       </a>
     </td>
     <td>
